@@ -4,8 +4,8 @@
 Tools for findeing slime chunks in Minecraft Bedrock.
 <br>マインクラフト統合版でスライムチャンクを探すためのアドオンです。
 
-Latest release (ver. 0.1.0)
-<br>最新版(ver. 0.1.0)のダウンロードはこちら
+Latest release (ver. 0.1.0) is [here](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v0.1.0).
+<br>最新版(ver. 0.1.0)のダウンロードは[こちら](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v0.1.0)
 
 ## Features 特徴
 * No coordinate limitation since the code check if the position is a slime chunk without using pre-inputed data (e.g., look-up table).
