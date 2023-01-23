@@ -30,3 +30,6 @@ Under development<br>現在開発中です。
 * Mersenne Twister in JavaScript: https://magicant.github.io/sjavascript/mt.html
 <br>Random number sequence generator used in Minecraft Bedrock.
 <br>マインクラフト統合版で使われている疑似乱数。
+
+## Contact
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40obscraft23)](https://twitter.com/obscraft23)
