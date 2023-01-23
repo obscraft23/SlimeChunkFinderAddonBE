@@ -1,4 +1,5 @@
 # SlimeFinderAddonBE
+<img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=plastic">
 
 Tools for findeing slime chunks in Minecraft Bedrock.
 <br>マインクラフト統合版でスライムチャンクを探すためのアドオンです。
