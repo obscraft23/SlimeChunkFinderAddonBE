@@ -22,7 +22,7 @@ Under development<br>現在開発中です。
 * Visualize slime chunks around the player via grid textures.<br>(例)プレーヤー周囲のスライムチャンクをグリッド表示する。
 * Allways check if you are in slime chunks and tell you via sidebar<br>(例)現在地がスライムチャンクかどうかサイドバーに常に表示する。
 
-### Reference
+## Reference
 * Slime finder pe: https://github.com/depressed-pho/slime-finder-pe
 <br>They originally found the generation rule of slime chunks by reverse engineering.
 <br>スライムチャンクの生成ルールの発見者。
