@@ -32,7 +32,7 @@ Under development<br>現在開発中です。
 <br>Random number sequence generator used in Minecraft Bedrock.
 <br>マインクラフト統合版で使われている疑似乱数。
 
-## Contact
+## Contact 連絡先
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40obscraft23)](https://twitter.com/obscraft23)
 
 ![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=plastic)
