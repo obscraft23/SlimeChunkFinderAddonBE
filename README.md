@@ -12,7 +12,7 @@ Latest release (ver. 0.1.0) is [here](https://github.com/obscraft23/SlimeFinderA
 <br> Slime chunks generation is independent of the world seed (exclusive to Bedrock) and can be performed by using Mersenne Twister.
 
 * 座標の範囲に制限はありません（事前に既知スライムチャンクのデータを与えるのではなく、その場で計算を行うからです）。
-<br>統合版のスライムチャンクの場所はシード値とは無関係にMersenne Twisterによって生成された疑似乱数によって決定されます。
+<br>統合版のスライムチャンクの場所はシード値とは無関係にMersenne Twisterで生成された疑似乱数によって決定されます。
 
 ## How to use 使い方
 You need to activate "beta API" and "holiday creator feature".
