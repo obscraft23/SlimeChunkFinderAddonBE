@@ -25,6 +25,8 @@ Under development<br>現在開発中です。
 ### Reference
 * Slime finder pe: https://github.com/depressed-pho/slime-finder-pe
 <br>They originally found the generation rule of slime chunks by reverse engineering.
+<br>スライムチャンクの生成ルールの発見者。
 
 * Mersenne Twister in JavaScript: https://magicant.github.io/sjavascript/mt.html
-<br>Random sequence generator used in Minecraft Bedrock.
+<br>Random number sequence generator used in Minecraft Bedrock.
+<br>マインクラフト統合版で使われている疑似乱数。
