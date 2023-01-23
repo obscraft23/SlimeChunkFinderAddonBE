@@ -1,0 +1,26 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Tools for finding slime chunks. You need to activate beta API and holiday creator features.\nスライムチャンクを探すツールです。ベータAPIとホリデークリエイターの特徴をonにしてください。",
+        "name": "[v0.1] SlimeFinderAddonBE [BP]",
+        "uuid": "c71b40e4-7e7e-4776-8b05-d59bbdf5dd95",
+        "version": [0, 1, 0],
+        "min_engine_version": [1, 19, 0]
+    },
+    "modules": [
+        {
+            "description": "Copyright © 2023 by @obscraft23. The code is distributed under the MIT Licence.",
+            "type": "script",
+            "language": "javascript",
+            "uuid": "868e0542-964a-4957-bb93-e8cc2bdd2034",
+            "version": [0, 1, 0],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+          "module_name": "@minecraft/server",
+          "version": "1.1.0-beta"
+        }
+    ]
+}
