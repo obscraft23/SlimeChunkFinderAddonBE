@@ -69,7 +69,7 @@ English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 * PixelMplus: https://itouhiro.hatenablog.com/entry/20130602/font
 <br> 使用フォント
 
-## Contact 連絡先
+## 連絡先
 [![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](obscraft23@gmail.com)
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obscraft23)
 ![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=for-the-badge)
