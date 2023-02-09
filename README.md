@@ -3,9 +3,9 @@
 
 日本語は[こちら](https://github.com/obscraft23/SlimeFinderAddonBE/blob/main/docs/README_jp.md)
 
-This resource pack is a in-game slime chunk finder for Minecraft Bedrock eddition.
+This resource pack is an in-game slime chunk finder for Minecraft Bedrock eddition.
 
-Latest release (ver. 1.0.0) is [here]().
+Latest release (ver. 1.0.0) is available [here]().
 
 ## Installation
 * You have to activate **"Molang features"** if you want to use all the utilities in the pack.
@@ -14,7 +14,7 @@ Latest release (ver. 1.0.0) is [here]().
 
 ## How to use
 1. **Minimap**
-<br>Current player's position is displayed on the minimap in the HUD screen, which is gridded in chunks.
+<br>Current player's position is displayed on the minimap in the HUD screen.
 
 2. **Slime chunks**
 <br>Slime chunks are highlighted with green color.
@@ -29,7 +29,7 @@ Latest release (ver. 1.0.0) is [here]().
 <img src="docs/explain.png" width=700>
 
 ## Features and Notice
-* No coordinate limitation. The code accepts 24bit numbers and will properly work within ~10M blocks from the wold origin in principle.
+* No coordinate limitation. The code accepts 24 bit numbers and will properly work within ~10M blocks from the world origin in principle.
 * The code calculates slime chunks every ~2 seconds to reduce the workload. Therefore, The viewer might be unstable when you move over chunks and/or move very fast.
 * The rendering is a bit unstable at the edge of the viewer.
 
