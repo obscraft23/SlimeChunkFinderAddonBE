@@ -1,17 +1,19 @@
 # SlimeFinderAddonBE
 <img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=plastic"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic)](https://opensource.org/licenses/MIT)
+
+English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
+
 <br>マインクラフト統合版でスライムチャンクを検索・地図表示するアドオン（リソースパック）です。
-<br>最新版(ver. 0.1.0)のダウンロードは[こちら](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v0.1.0)
+<br>最新版(ver. 0.1.0)のダウンロードは[こちら](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v0.1.0)。
 
 ## アドオン導入時の注意
 + すべての機能を利用する場合は、ワールド作成時に __「Molang 機能」をON__ にしてください。
 
-+ １人称視点では挙動が安定しないので、 __３人称視点での使用__ を推奨します。
++ 現段階では、１人称視点の挙動が安定しないので、 __３人称視点での使用__ を推奨します。
 
 + 必ず有効なリソースパックのリストの一番上に置いてください。他のリソースパック（特にPlayer.entity.jsonの変更を含むもの）と併用した場合、正しく機能しない場合があります。
 
 ## 使い方
-
 1. チャンクマップ
 <br> プレーヤーの現在地をチャンクマップに表示します。
 
@@ -33,13 +35,31 @@
 * チャンクマップの端で描画が乱れる場合があります。
 
 ## 利用に際して
-* 特に制限はありませんが、二次利用の際はクレジットを含めてください。詳しくはMITライセンスに従ってください。
+* 特に制限はありませんが、二次利用の際はクレジットを含めてください。
+* 詳しくは[MITライセンス](https://github.com/obscraft23/SlimeFinderAddonBE/blob/main/LICENSE.txt])に従ってください。
 
-## その他
+## スライムの湧き条件について
+* スライムチャンク
+<br>スライムは「スライムチャンク」と呼ばれる特別なチャンクのY座標39以下に湧きます。このスライムチャンクを検索表示するのがこのアドオンです。<br>スライムチャンクでは明るさレベルに関係なくスライムが湧きます。
+
+* 沼地/マングローブの沼地
+<br> スライムは沼地またはマングローブの沼地のY座標50から70の間に湧きます。このアドオンではプレーヤーの現在地が沼地かどうか判定してくれます。
+<br> 夜かつ明るさレベル7以下である必要があります。
+<br> 湧き効率は月齢に比例します。満月時が最も効率がよく、新月時には湧きません。
+
+## カスタムコマンド（旧バージョン）
 * v1.0.0リリースで、スライムチャンクを検索するカスタムコマンド部分は、ビヘイビアパックに該当するため除外しましたが、引き続きgithubから直接利用可能です。
+* gametestを利用していますので、「ベータAPI」と「ホリデークリエイターの特徴」をONにしてください。
 * 使用方法はチャット欄に「!isSlime」と打つだけです。
 
-## Reference
+## 今後の開発予定
+ゲーム体験を損ねない範囲でアップデートしたいと思っています。
+
+* １人称視点の改善
+* スライムの位置をマップに表示する。
+* 沼地バイオームをマップ上に表示する。
+
+## 参考
 * Slime finder pe: https://github.com/depressed-pho/slime-finder-pe
 <br>統合版スライムチャンクの生成ルールの発見者。
 * Mersenne Twister in JavaScript: https://magicant.github.io/sjavascript/mt.html
