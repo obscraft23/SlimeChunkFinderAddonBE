@@ -8,7 +8,7 @@ This resource pack is an in-game slime chunk finder for Minecraft Bedrock edditi
 Latest release (ver. 1.0.0) is available [here](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v1.0.0).
 
 ## Installation
-* You have to activate **"Molang features"** if you want to use all the utilities in the pack.
+* You have to activate **"Molang features"**.
 * The pack is unstable in the first-person view at this moment. Please use it in the **third-person view**.
 * Using other resource packs together probably prevents the pack from working properly. You need to put the pack on top of the active resource pack list.
 
