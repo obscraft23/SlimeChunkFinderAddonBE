@@ -27,6 +27,8 @@ English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 <br> プレーヤーの現在地が沼地またはマングローブの沼地の場合、「biome」に「OK!」と表示されます。
 <br> プレーヤーの現在地がスライムチャンクの場合「chunk」に「OK!」と表示されます。
 
+![](docs/explain.png)
+
 ## 注意点
 * 座標の制限はありません。24ビット入力まで取り扱えるので、原理的には約1000万ブロック離れても（このアドオンは）正しく動作します。
 
