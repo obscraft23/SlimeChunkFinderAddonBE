@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The code partially makes use of Mersenne Twister in JavaScript (mt.js) to generate random number sequence.
+The code partially makes use of Mersenne Twister (mt.js) to generate random number sequence.
 Here is the original copyright notice for mt.js:
 
 Mersenne Twister in JavaScript based on "mt19937ar.c"
