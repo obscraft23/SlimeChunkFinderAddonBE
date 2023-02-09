@@ -41,6 +41,8 @@ English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 * 詳しくは[MITライセンス](https://github.com/obscraft23/SlimeFinderAddonBE/blob/main/LICENSE.txt])に従ってください。
 
 ## スライムの湧き条件について
+※1.19.60現在
+
 * スライムチャンク
 <br>スライムは「スライムチャンク」と呼ばれる特別なチャンクのY座標39以下に湧きます。このスライムチャンクを検索表示するのがこのアドオンです。<br>スライムチャンクでは明るさレベルに関係なくスライムが湧きます。
 
