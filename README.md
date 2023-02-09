@@ -33,7 +33,7 @@ Latest release (ver. 1.0.0) is available [here](https://github.com/obscraft23/Sl
 * The code calculates slime chunks every ~2 seconds to reduce the workload. Therefore, The viewer might be unstable when you move over chunks and/or move very fast.
 * The rendering is a bit unstable at the edge of the viewer.
 
-## Custom Command
+## Custom Command (decomissioned)
 * The custom command to search slime chunks is decomissioned after v1.0.0 release, but still available in the "BP" directory.
 * You need to activate "beta API" and "holiday creator feature".
 * Usage in game: just type "!isSlime" in chat.
