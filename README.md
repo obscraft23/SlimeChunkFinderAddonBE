@@ -24,7 +24,7 @@ Latest release (ver. 1.0.0) is available [here](https://github.com/obscraft23/Sl
 
 4. **Infomation panel**
 <br> If you are in swamp or mangrove swamp, two of the slimw spawnable biomes, "OK!" is displayed in "biome".
-<br> If you are in a slime chunk "OK!" is displayed in "chunk".
+<br> If you are in a slime chunk, "OK!" is displayed in "chunk".
 
 <img src="docs/explain.png" width=700>
 
