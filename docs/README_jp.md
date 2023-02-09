@@ -4,7 +4,7 @@
 English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 
 マインクラフト統合版でスライムチャンクを検索・地図表示するアドオン（リソースパック）です。
-<br>最新版(ver. 0.1.0)のダウンロードは[こちら](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v0.1.0)。
+<br>最新版(ver. 1.0.0)のダウンロードは[こちら]([https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v0.1.0](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v1.0.0))。
 
 ## アドオン導入時の注意
 + すべての機能を利用する場合は、ワールド作成時に __「Molang 機能」をON__ にしてください。
