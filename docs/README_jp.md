@@ -7,7 +7,7 @@ English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 <br>最新版(ver. 1.0.0)のダウンロードは[こちら]([https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v0.1.0](https://github.com/obscraft23/SlimeFinderAddonBE/releases/tag/v1.0.0))。
 
 ## アドオン導入時の注意
-+ すべての機能を利用する場合は、ワールド作成時に __「Molang 機能」をON__ にしてください。
++ ワールド作成時に __「Molang 機能」をON__ にしてください。
 
 + 現段階では、１人称視点の挙動が安定しないので、 __３人称視点での使用__ を推奨します。
 
