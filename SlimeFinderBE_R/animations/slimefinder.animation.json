@@ -1,0 +1,101 @@
+{
+	"format_version" : "1.10.0",
+	"animations": {
+		"animation.player.slimefinder" : {
+			"loop" : true,
+			"bones" : {
+				"marker" : {
+					"rotation" : [ "0", "0", "0" ],
+					"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.000" ],
+					"scale" : "7"
+				},
+				"direction" : {
+					"rotation" : [ "0", "0", "-v.map_rot" ],
+					"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.000" ],
+					"scale" : "7"
+				},
+				/*
+				"slime0" : {
+					"rotation" : [ "0", "0", "-v.map_rot" ],
+					"position" : [ "-670+(v.dX*14.0/16.0)", "900 + (v.dZ*14.0/16.0) + (query.is_swimming * -25)", "10.000" ],
+					"scale" : "7"
+				},
+				*/
+
+				"gridx" : {
+					"rotation" : [ "0", "0", "-v.map_rot" ],
+					"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.001" ],
+					"scale" : "7"
+				},
+				"gridz" : {
+					"rotation" : [ "0", "0", "-v.map_rot+90" ],
+					"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.001" ],
+					"scale" : "7"
+				},
+				"mapbase" : {
+					"rotation" : [ "0", "0", "0"  ],
+					"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.002" ],
+					"scale" : "7"
+				},
+
+				"chunkhighlight.0002" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0003" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0004" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0101" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0102" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0103" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0104" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0105" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0200" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0201" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0202" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0203" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0204" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0205" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0206" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0300" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0301" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0302" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0303" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0304" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0305" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0306" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0400" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0401" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0402" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0403" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0404" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0405" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0406" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0501" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0502" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0503" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0504" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0505" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0602" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0603" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"chunkhighlight.0604" : {"rotation" : [ "0", "0", "-v.map_rot" ],"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.003" ],"scale" : "7"},
+				"map" : {
+					"rotation" : [ "0", "0", "0"  ],
+					"position" : [ "-670", "900 + (query.is_swimming * -25)", "10.004" ],
+					"scale" : "7"
+				},
+				"biomeinfo" : {
+					"rotation" : [ "0", "0", "0"  ],
+					"position" : [ "-650", "830 + (query.is_swimming * -25)", "10.00" ],
+					"scale" : "5"
+				},
+				"chunkinfo" : {
+					"rotation" : [ "0", "0", "0"  ],
+					"position" : [ "-650", "830 + (query.is_swimming * -25)", "10.00" ],
+					"scale" : "5"
+				},
+				"infobase" : {
+					"rotation" : [ "0", "0", "0"  ],
+					"position" : [ "-650", "830 + (query.is_swimming * -25)", "10.003" ],
+					"scale" : "5"
+				}
+            }
+        }
+    }
+}
