@@ -1,5 +1,5 @@
 # SlimeFinderAddonBE
-<img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=plastic"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic)](https://opensource.org/licenses/MIT)
+<img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=for-the-badge"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 
@@ -27,7 +27,7 @@ English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 <br> プレーヤーの現在地が沼地またはマングローブの沼地の場合、「biome」に「OK!」と表示されます。
 <br> プレーヤーの現在地がスライムチャンクの場合「chunk」に「OK!」と表示されます。
 
-![](docs/explain.png)
+<img src="./explain.png" width=700>
 
 ## 注意点
 * 座標の制限はありません。24ビット入力まで取り扱えるので、原理的には約1000万ブロック離れても（このアドオンは）正しく動作します。
@@ -70,6 +70,6 @@ English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 <br> 使用フォント
 
 ## Contact 連絡先
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40obscraft23)](https://twitter.com/obscraft23)
-
-![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=plastic)
+[![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](obscraft23@gmail.com)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obscraft23)
+![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=for-the-badge)
