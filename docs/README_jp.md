@@ -1,4 +1,4 @@
-# SlimeFinderAddonBE
+# Slime Chunk Finder AddonBE
 <img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=for-the-badge"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
