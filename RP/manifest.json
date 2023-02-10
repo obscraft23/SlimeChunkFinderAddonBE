@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This resource pack shows slime chunks around the player. You need to activate \"Molang Features\".\nスライムチャンクを表示するリソースパックです. Molang機能をonにしてください.",
+        "name": "SlimeFinderAddonBE [RP]",
+        "uuid": "ad6a497a-3e2e-4c5f-b0b6-97ad2470b6c3",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 19, 0]
+    },
+    "modules": [
+        {
+            "description": "Copyright © 2023 by @obscraft23. The code is distributed under the MIT Licence.",
+            "type": "resources",
+            "uuid": "730a2dfa-0a0e-4893-8b2c-60baae781b7b",
+            "version": [1, 0, 0]
+        }
+    ]
+}
