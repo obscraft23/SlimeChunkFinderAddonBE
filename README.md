@@ -26,7 +26,7 @@ Latest release (ver. 1.0.0) is available [here](https://github.com/obscraft23/Sl
 <br> If you are in swamp or mangrove swamp, two of the slimw spawnable biomes, "OK!" is displayed in "biome".
 <br> If you are in a slime chunk, "OK!" is displayed in "chunk".
 
-<img src="docs/explain.png" width=700>
+<img src="docs/explain01.png" width=700>
 
 ## Features and Notice
 * No coordinate limitation. The code accepts 24 bit numbers and will properly work within ~10M blocks from the world origin in principle.
