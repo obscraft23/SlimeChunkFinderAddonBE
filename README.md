@@ -23,7 +23,7 @@ Latest release (ver. 1.0.0) is available [here](https://github.com/obscraft23/Sl
 <br>The minimap rotates according to the player's view direction. The red triangle marker represents the north direction.
 
 4. **Infomation panel**
-<br> If you are in swamp or mangrove swamp, two of the slimw spawnable biomes, "OK!" is displayed in "biome".
+<br> If you are in swamp or mangrove swamp, two of the slime spawnable biomes, "OK!" is displayed in "biome".
 <br> If you are in a slime chunk, "OK!" is displayed in "chunk".
 
 <img src="docs/explain01.png" width=700>
