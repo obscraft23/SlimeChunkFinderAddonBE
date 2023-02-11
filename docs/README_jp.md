@@ -1,7 +1,7 @@
 # Slime Chunk Finder Addon BE
 <img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=for-the-badge"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
+English README is [here](https://github.com/obscraft23/SlimeChunkFinderAddonBE).
 
 マインクラフト統合版でスライムチャンクを検索・地図表示するアドオン（リソースパック）です。
 <br>最新版(ver. 1.0.0)のダウンロードは[こちら](https://github.com/obscraft23/SlimeChunkFinderAddonBE/releases/tag/v1.0.0)。
@@ -38,7 +38,7 @@ English README is [here](https://github.com/obscraft23/SlimeFinderAddonBE).
 
 ## 利用に際して
 * 特に制限はありませんが、二次利用の際はクレジットを含めてください。
-* 詳しくは[MITライセンス](https://github.com/obscraft23/SlimeChunkFinderAddonBE/blob/main/LICENSE.txt])に従ってください。
+* 詳しくは[MITライセンス](https://github.com/obscraft23/SlimeChunkFinderAddonBE/blob/master/LICENSE.txt)に従ってください。
 
 ## スライムの湧き条件について
 ※1.19.60現在
