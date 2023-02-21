@@ -1,5 +1,5 @@
 # Slime Chunk Finder Addon BE
-<img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=for-the-badge"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+<img src="https://img.shields.io/github/downloads/obscraft23/SlimeFinderAddonBE/total?style=flat-square"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 日本語は[こちら](https://github.com/obscraft23/SlimeFinderAddonBE/blob/main/docs/README_jp.md)
 
@@ -55,3 +55,8 @@ Latest release (ver. 1.0.0) is available [here](https://github.com/obscraft23/Sl
 [![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](obscraft23@gmail.com)
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obscraft23)
 ![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=for-the-badge)
+
+## Contact
+[![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=style=flat-square&logo=gmail&logoColor=white)](obscraft23@gmail.com)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/obscraft23)
+![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=style=flat-square)
