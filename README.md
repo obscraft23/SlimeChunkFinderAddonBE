@@ -52,11 +52,6 @@ Latest release (ver. 1.0.0) is available [here](https://github.com/obscraft23/Sl
 <br>a font used in the pack.
 
 ## Contact
-[![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](obscraft23@gmail.com)
-[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obscraft23)
-![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=for-the-badge)
-
-## Contact
 [![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=style=flat-square&logo=gmail&logoColor=white)](obscraft23@gmail.com)
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/obscraft23)
 ![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=style=flat-square)
